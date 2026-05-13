@@ -1886,4 +1886,244 @@ const stories = {
       },
     ],
   },
+  8: {
+    title: "たからもののじかん",
+    description: "MARCH 03, 2026",
+    image: "images/story_card/story8.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  9: {
+    title: "さそってんのよ",
+    description: "MARCH 05, 2026",
+    image: "images/story_card/story9.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  10: {
+    title: "お待たせ、待った？",
+    description: "MARCH 05, 2026",
+    image: "images/story_card/story10.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  11: {
+    title: "だ～れだ！",
+    description: "MARCH ??, 2026",
+    image: "images/story_card/story11.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  12: {
+    title: "くっつきむしのまほう",
+    description: "MARCH ??, 2026",
+    image: "images/story_card/story12.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  13: {
+    title: "ゆうわくしっぱい",
+    description: "MARCH ??, 2026",
+    image: "images/story_card/story13.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  14: {
+    title: "おくちは今からお預けです",
+    description: "MARCH ??, 2026",
+    image: "images/story_card/story14.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  15: {
+    title: "₍ᐡ•̥~•̥ᐡ₎",
+    description: "MARCH ??, 2026",
+    image: "images/story_card/story15.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  16: {
+    title: "かわいいキミに甘やかされたい",
+    description: "MARCH ??, 2026",
+    image: "images/story_card/story16.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
+  17: {
+    title: "さわりあいっこ、こるねの番",
+    description: "APRIL 13, 2026",
+    image: "images/story_card/story17.jpg",
+    gallery: [
+      "images/gallary/story2/gallery1.png",
+      "images/gallary/story2/gallery2.png",
+      "images/gallary/story2/gallery3.png",
+    ],
+    chats: [
+      {
+        character: "rudy",
+        name: "RUDY",
+        icon: "images/rudy.png",
+        text: "少しだけ休もう。",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "じゃあ、隣にいてもいい？",
+      },
+    ],
+  },
 };
