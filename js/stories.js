@@ -953,6 +953,8 @@ const stories = {
       "images/gallary/story2/gallery1.png",
       "images/gallary/story2/gallery2.png",
       "images/gallary/story2/gallery3.png",
+      "images/gallary/story2/gallery4.png",
+      "images/gallary/story2/gallery5.png",
     ],
     chats: [
       {
