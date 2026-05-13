@@ -219,39 +219,40 @@ a {
   margin-right: 8px;
 }
 
+/* =====================
+   STORY GRID
+===================== */
+
 .story-list {
-  display: flex;
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
   gap: 16px;
-  justify-content: center;
+
   margin-top: 16px;
 }
 
-.story-list::-webkit-scrollbar {
-  display: none;
-}
-
+/* カード */
 .story-card {
-  width: calc((100% - 32px) / 3);
-  height: 190px;
-  aspect-ratio: 1 / 1.35;
-
   border: 1px solid var(--navy);
-  background: var(--white);
   border-radius: 8px;
+
+  background: var(--white);
+
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+
+  min-width: 0;
 }
 
+/* 画像 */
 .image-box {
   height: 116px;
-  background: linear-gradient(
-    135deg,
-    rgba(17, 52, 108, 0.12),
-    rgba(255, 214, 231, 0.95)
-  );
-  border-bottom: 1px solid var(--line);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: navy;
+
+  overflow: hidden;
   position: relative;
 }
 
@@ -263,37 +264,60 @@ a {
   object-position: center;
 
   display: block;
-
-  transform: none;
-
-  image-rendering: auto;
-
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
 }
 
+/* 情報 */
 .story-info {
-  min-height: 74px;
-  padding: 10px 8px;
+  padding: 12px 10px;
+
   display: flex;
-  align-items: flex-start;
   justify-content: space-between;
+  align-items: flex-start;
+
+  gap: 8px;
+
+  flex: 1;
 }
 
 .story-info h2 {
   margin: 0 0 8px;
+
   font-size: 12px;
+  line-height: 1.5;
+
+  color: var(--navy);
+
+  word-break: break-word;
 }
 
 .story-info p {
   margin: 0;
+
   font-size: 10px;
-  font-weight: 700;
+  line-height: 1.5;
 }
 
+/* arrow */
 .story-info span {
   flex-shrink: 0;
+
   color: var(--pink);
+}
+
+/* =====================
+   MOBILE
+===================== */
+
+@media (max-width: 768px) {
+  .story-list {
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 14px;
+  }
+
+  .image-box {
+    height: 140px;
+  }
 }
 
 /* detail */
