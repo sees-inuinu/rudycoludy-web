@@ -2009,9 +2009,11 @@ const stories = {
     description: "DECEMBER 17, 2025",
     image: "images/story_card/story3.jpg",
     gallery: [
-      "images/gallary/story3/gallery1.png",
-      "images/gallary/story3/gallery2.png",
-      "images/gallary/story3/gallery3.png",
+      "images/gallary/story3/gallery1.jpg",
+      "images/gallary/story3/gallery2.jpg",
+      "images/gallary/story3/gallery3.jpg",
+      "images/gallary/story3/gallery4.jpg",
+      "images/gallary/story3/gallery5.jpg",
     ],
     chats: [
       {
