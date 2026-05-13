@@ -1,24 +1,28 @@
-const storyCards = document.querySelectorAll(".story-card");
+const storyList = document.getElementById("storyList");
 
-storyCards.forEach((card) => {
-  const id = card.dataset.id;
-  const story = stories[id];
+Object.entries(stories).forEach(([id, story]) => {
+  const cardHtml = `
+    <a href="story.html?id=${id}" class="story-card">
 
-  if (!story) return;
+      <div class="image-box">
+        <img src="${story.image}" alt="${story.title}">
+      </div>
 
-  const title = card.querySelector("h2");
-  const description = card.querySelector("p");
-  const image = card.querySelector("img");
+      <div class="story-info">
 
-  card.href = `story.html?id=${id}`;
+        <div>
+          <h2>${story.title}</h2>
+          <p>${story.description}</p>
+        </div>
 
-  if (title) title.textContent = story.title;
-  if (description) description.textContent = story.description;
+        <span>→</span>
 
-  if (image) {
-    image.src = story.image;
-    image.alt = story.title;
-  }
+      </div>
+
+    </a>
+  `;
+
+  storyList.insertAdjacentHTML("beforeend", cardHtml);
 });
 
 const randomImage = document.getElementById("randomImage");

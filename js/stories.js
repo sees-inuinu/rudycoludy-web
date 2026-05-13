@@ -1751,9 +1751,9 @@ const stories = {
   },
 
   3: {
-    title: "AFTERNOON",
-    description: "MAY 05, 2026",
-    image: "images/story_card/story2.jpg",
+    title: "きみでいっぱいになりたい",
+    description: "DECEMBER 17, 2025",
+    image: "images/story_card/story3.jpg",
     gallery: [
       "images/gallary/story2/gallery1.png",
       "images/gallary/story2/gallery2.png",
@@ -1791,9 +1791,9 @@ const stories = {
     ],
   },
   4: {
-    title: "AFTERNOON",
-    description: "MAY 05, 2026",
-    image: "images/story_card/story2.jpg",
+    title: "ししょうのばか",
+    description: "JANUARY 29, 2026",
+    image: "images/story_card/story4.jpg",
     gallery: [
       "images/gallary/story2/gallery1.png",
       "images/gallary/story2/gallery2.png",
@@ -1815,9 +1815,9 @@ const stories = {
     ],
   },
   5: {
-    title: "AFTERNOON",
-    description: "MAY 05, 2026",
-    image: "images/story_card/story2.jpg",
+    title: "きみがひとり空をゆくから",
+    description: "FEBRUARY 25, 2026",
+    image: "images/story_card/story5.jpg",
     gallery: [
       "images/gallary/story2/gallery1.png",
       "images/gallary/story2/gallery2.png",
@@ -1839,9 +1839,9 @@ const stories = {
     ],
   },
   6: {
-    title: "AFTERNOON",
-    description: "MAY 05, 2026",
-    image: "images/story_card/story2.jpg",
+    title: "結局きみのことを、考えてる",
+    description: "FEBRUARY ??, 2026",
+    image: "images/story_card/story6.jpg",
     gallery: [
       "images/gallary/story2/gallery1.png",
       "images/gallary/story2/gallery2.png",
@@ -1863,33 +1863,9 @@ const stories = {
     ],
   },
   7: {
-    title: "AFTERNOON",
-    description: "MAY 05, 2026",
-    image: "images/story_card/story2.jpg",
-    gallery: [
-      "images/gallary/story2/gallery1.png",
-      "images/gallary/story2/gallery2.png",
-      "images/gallary/story2/gallery3.png",
-    ],
-    chats: [
-      {
-        character: "rudy",
-        name: "RUDY",
-        icon: "images/rudy.png",
-        text: "少しだけ休もう。",
-      },
-      {
-        character: "colune",
-        name: "COLUNE",
-        icon: "images/colune.png",
-        text: "じゃあ、隣にいてもいい？",
-      },
-    ],
-  },
-  8: {
-    title: "AFTERNOON",
-    description: "MAY 05, 2026",
-    image: "images/story_card/story2.jpg",
+    title: "きみを愛でひたひたにしたい",
+    description: "MARCH 02, 2026",
+    image: "images/story_card/story7.jpg",
     gallery: [
       "images/gallary/story2/gallery1.png",
       "images/gallary/story2/gallery2.png",
