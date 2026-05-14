@@ -22495,13 +22495,7 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "..ふふ、とらなくなっちゃいそうだね",
-      },
-      {
-        character: "rudy",
-        name: "RUDY",
-        icon: "images/rudy.png",
-        text: "止まらなくなっちゃいそうだね",
+        text: "..ふふ、止まらなくなっちゃいそうだね",
       },
       {
         character: "colune",
