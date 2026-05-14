@@ -3452,20 +3452,16 @@ const stories = {
     ],
     chats: [
       {
-        type: "subtitle",
-        text: "竜詩戦争集結",
-      },
-      {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "",
+        text: "うち戻る？",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "",
+        text: "そうする！！",
       },
       {
         character: "rudy",
@@ -3477,7 +3473,7 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（師匠をなでる）",
+        text: "（Rudy Forsythをなでる）",
       },
       {
         character: "rudy",
@@ -3543,7 +3539,7 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（笑う）",
+        text: "（Rudy Forsythに笑う）",
       },
       {
         character: "rudy",
@@ -3591,7 +3587,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（嬉しそうに頷く）",
+        text: "（Rudy Forsythに喜ぶ）",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "（Rudy Forsythにうなずく）",
       },
       {
         character: "rudy",
@@ -3609,7 +3611,7 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（すねたように頬をふくらませる）",
+        text: "（Colune Luneにすねる）",
       },
       {
         character: "colune",
@@ -3633,7 +3635,7 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（つんつんとつつく）",
+        text: "（Rudy Forsythをつつく）",
       },
       {
         character: "rudy",
@@ -3651,7 +3653,13 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（眉をひそめる）",
+        text: "（Colune Luneに眉をひそめる）",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "（Rudy Forsythに慌てる）",
       },
       {
         character: "colune",
@@ -3675,17 +3683,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（つんつん）",
+        text: "（Rudy Forsythをつつく）",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
         text: "おもちのししょうだ",
-      },
-      {
-        type: "subtitle",
-        text: "やきもち",
       },
       {
         character: "rudy",
@@ -3709,13 +3713,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（つんつん）",
+        text: "（Rudy Forsythをつつく）",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（なでなで）",
+        text: "（Rudy Forsythをなでる）",
       },
       {
         character: "colune",
@@ -3733,19 +3737,19 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "友達を気に入ってくれるのはうれしいし",
+        text: "友達を機に行ってくれるのはうれしいし",
       },
       {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "気に入ってくれるのは良いんだけど",
+        text: "気に入ってくれる",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（うんうんと頷く）",
+        text: "（Rudy Forsythにうなずく）",
       },
       {
         character: "rudy",
@@ -3769,7 +3773,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（なでなでなで）",
+        text: "（Rudy Forsythをなでる）",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "（Rudy Forsythをなでる）",
       },
       {
         character: "rudy",
@@ -3787,7 +3797,7 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（微笑む）",
+        text: "（Colune Luneに微笑む）",
       },
       {
         character: "colune",
@@ -3835,7 +3845,13 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（微笑む）",
+        text: "（Colune Luneに微笑む）",
+      },
+      {
+        character: "colune",
+        name: "COLUNE",
+        icon: "images/colune.png",
+        text: "（Rudy Forsythに幸福そうな表情をする）",
       },
       {
         character: "colune",
@@ -3847,11 +3863,7 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（満ち足りた笑顔）",
-      },
-      {
-        type: "subtitle",
-        text: "いつもと違う冒険",
+        text: "（Rudy Forsythに笑顔をみせる）",
       },
       {
         character: "rudy",
@@ -3887,7 +3899,7 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "師匠が一網打尽にした道をしっていくのも楽しいけど",
+        text: "師匠が一網打尽にした道はしっていくのも楽しいけど",
       },
       {
         character: "colune",
@@ -3905,7 +3917,7 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（満ち足りた表情）",
+        text: "（Rudy Forsythに満ち足りた表情をしてみせる）",
       },
       {
         character: "rudy",
@@ -3923,13 +3935,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（嬉しそうに笑う）",
+        text: "（Rudy Forsythに喜んでみせる）",
       },
       {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（頭をなでる）",
+        text: "（Colune Luneをなでる）",
       },
       {
         character: "colune",
@@ -3965,7 +3977,7 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（つんつん）",
+        text: "（Rudy Forsythをつつく）",
       },
       {
         character: "rudy",
@@ -3983,13 +3995,13 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（なでる）",
+        text: "（Colune Luneをなでる）",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（嬉しそうに目を細める）",
+        text: "（Rudy Forsythに喜んでみせる）",
       },
       {
         character: "rudy",
@@ -4007,7 +4019,7 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（苦笑いする）",
+        text: "（Colune Luneに苦笑いしてみせる）",
       },
       {
         character: "colune",
@@ -4088,10 +4100,6 @@ const stories = {
         text: "ありがとう",
       },
       {
-        type: "subtitle",
-        text: "いつもと違う君",
-      },
-      {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
@@ -4137,13 +4145,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（うとうとした表情でころろんと転がる）",
+        text: "（うとうとした表情でころろんところがり）",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（ふもっと服に顔をうずめる）",
+        text: "（ふもっと服に顔をうずめ）",
       },
       {
         character: "colune",
@@ -4155,7 +4163,7 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（背中にそっと両手を回し抱き寄せる）",
+        text: "（背中にそっと両手を回し抱き寄せて）",
       },
       {
         character: "rudy",
@@ -4179,7 +4187,7 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "むむむ・・・（頭をこすりつけて悩む）",
+        text: "むむむ・・・（頭をこすりつけて悩）",
       },
       {
         character: "rudy",
@@ -4245,13 +4253,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（きゅーっとお洋服をつかむ）",
+        text: "（きゅーっとお洋服をつかむ",
       },
       {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "（おや、と思いこるねちゃんの顔を見ようと少し離れようとするけど、掴まれていてできない）",
+        text: "（おやと想い、こるねちゃんの顔を見ようと少し離れようとするんだけど、掴まれたせいでそれができず）",
       },
       {
         character: "rudy",
@@ -4269,59 +4277,31 @@ const stories = {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "嬉しいな",
-      },
-      {
-        character: "rudy",
-        name: "RUDY",
-        icon: "images/rudy.png",
-        text: "（囁くように言う）",
-      },
-      {
-        type: "subtitle",
-        text: "きみのことばかり",
+        text: "嬉しいな（囁くように言う）",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "それより前はこるねのほうが　やきもちやいてたもん",
+        text: "それより前はこるねのほうが　やきもちやいてたもん（胸元に顔を押し付けてもごもご喋りつつ）",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（胸元に顔を押し付けてもごもご喋る）",
+        text: "ししょうが他の子と一緒にいるの、前は ただやきもちやいてただけだったのに",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "ししょうが他の子と一緒にいるの、前はただやきもちやいてただけだったのに",
+        text: "今は ししょうがこるねのこと見てないとき すっごくさみしくなるもん",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "今は、ししょうがこるねのこと見てないとき",
-      },
-      {
-        character: "colune",
-        name: "COLUNE",
-        icon: "images/colune.png",
-        text: "すっごくさみしくなるもん",
-      },
-      {
-        character: "colune",
-        name: "COLUNE",
-        icon: "images/colune.png",
-        text: "ししょうのばか",
-      },
-      {
-        character: "colune",
-        name: "COLUNE",
-        icon: "images/colune.png",
-        text: "（もぞ、と顔をあげてじとっと見る）",
+        text: "ししょうのばか（もぞ、と顔あげてじと、と見る）",
       },
       {
         character: "rudy",
@@ -4345,25 +4325,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "…………ししょうのばか",
-      },
-      {
-        character: "colune",
-        name: "COLUNE",
-        icon: "images/colune.png",
-        text: "（もぞ、と顔を埋めなおす）",
+        text: "…………ししょうのばか（もぞ、と顔を埋め直す）",
       },
       {
         character: "rudy",
         name: "RUDY",
         icon: "images/rudy.png",
-        text: "え～...",
-      },
-      {
-        character: "rudy",
-        name: "RUDY",
-        icon: "images/rudy.png",
-        text: "（ちょっとうれしそうに困ったように笑って、抱きしめる）",
+        text: "え～...（ちょっとうれしそうに困ったように笑って、抱きしめる）",
       },
       {
         character: "colune",
@@ -4393,25 +4361,13 @@ const stories = {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "ん...",
+        text: "ん（思わず幸せそうな声がもれる）",
       },
       {
         character: "colune",
         name: "COLUNE",
         icon: "images/colune.png",
-        text: "（思わず幸せそうな声がもれる）",
-      },
-      {
-        character: "colune",
-        name: "COLUNE",
-        icon: "images/colune.png",
-        text: "おやすみなさい",
-      },
-      {
-        character: "colune",
-        name: "COLUNE",
-        icon: "images/colune.png",
-        text: "（すりりとして眠りに落ちる）",
+        text: "おやすみなさい（すりりとして眠りに落ちる）",
       },
       {
         character: "rudy",
